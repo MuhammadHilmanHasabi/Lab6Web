@@ -3,6 +3,7 @@ Nama: Muhammad Hilman Hasabi
 NIM: 312310235
 
 Persiapan Lingkungan Praktikum:
+
 Install XAMPP sebagai server lokal untuk menjalankan PHP dan Apache. Unduh dari situs XAMPP dan ekstrak di lokasi yang Anda pilih (misalnya, d:\xampp).
 Jalankan XAMPP melalui XAMPP Control Panel, pastikan Apache dan MySQL aktif.
 Uji server dengan membuka http://localhost di browser. Jika halaman XAMPP tampil, server telah berfungsi dengan baik.
